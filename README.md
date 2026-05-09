@@ -22,10 +22,5 @@ Off the screen, I enjoy football & chess — strategy on the field and the board
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dreynox&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=dreynox&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
