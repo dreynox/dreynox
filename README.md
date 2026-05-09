@@ -32,11 +32,7 @@ Exploring Computer Science, Machine Learning, DevOps, automation, and problem-so
 
 ---
 
-### Find me
-- Instagram: (https://www.instagram.com/rayhaanshaikh07?igsh=MWhudHZ4YjBqc2w4YQ==)  
+### Contact me
 - Email: dreynox.ray@gmail.com
 
 ---
-
-### GitHub at a glance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreynox&show_icons=true)
