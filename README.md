@@ -1,26 +1,267 @@
-# 💫 About Me:
-# I’m Rayhaan 
-Currently pursuing Computer Science & Engineering.<br>
-Aiming to become a <b>Full Stack Web Developer</b>, building things from scratch and learning by doing.<br>
-Currently focused on academics and hands-on projects, figuring it out as I go.<br>
-Off the screen, I enjoy football & chess — strategy on the field and the board.
+<!--------|---------|---------|------------------- Main Banner  ---------------------------------------------------------------->
+<div align="center">
+  <h2 style="margin-top:-10px; font-weight:600;">
+    Hi there, Welcome to my GitHub Profile!
+  </h2>
+</div>
+
+<!-- Theme: Red to Blue to Green Gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:0077B5,100:00C851&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20CS%26E%20Student%20%7C%20Building%20UAQI%20%26%20SkillSprint&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Web+Developer;CS%26E+Student+%7C+Building+from+Scratch;UAQI-Project+%7C+SkillSprint;Football+%26+Chess+Enthusiast" alt="Typing SVG" />
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rayhaan-shaikh-a25b67378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dreynox.ray@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dreynox&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=dreynox&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dreynox&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!------------------------------------------------------------------------ Profile Stats ------------------------------------------------------------------------>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dreynox&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/dreynox">
+    <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-FF0033?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
+    <img src="https://komarev.com/ghpvc/?username=dreynox&label=Profile%20Views&color=0077B5&style=for-the-badge" height="50"/>
+    <img src="https://img.shields.io/github/followers/dreynox?label=Followers&color=0077B5&style=for-the-badge&logo=github&logoColor=white" height="50"/>
+   <img src="https://img.shields.io/github/stars/dreynox?label=Total%20Stars&color=00C851&style=for-the-badge&logo=star&logoColor=white" height="50"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-00C851?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Opportunities" />
+</div>
+
+<!------------------------------------------------------------------------ Divider ------------------------------------------------------------------------>
+
+</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!------------------------------------------------------------------------ Gradient Line ------------------------------------------------------------------------>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:0077B5,100:00C851&height=2">
+
+
+<!------------------------------------------------------------------------ About Me ------------------------------------------------------------------------>
+
+
+
+## 👨‍💻 About Me
+
+<div align="center">
+  <blockquote style="border-left: 4px solid #FF0033; padding-left: 20px; margin: 20px 0; font-style: italic; color: #cccccc; max-width: 800px;">
+    <p style="font-size: 16px; line-height: 1.8;">
+      Computer Science & Engineering student passionate about building full-stack web applications from scratch. 
+      Currently focused on academics and hands-on projects, learning by doing. 
+      When not coding, you'll find me on the football field or at the chess board — strategy on the field and the board.
+    </p>
+  </blockquote>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/><br>
+        <b>
+        <b>Open Source</b><br>
+        <span style="color:#888">Contributing & Learning</span>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/><br>
+        <b>DevOps</b><br>
+        <span style="color:#888">Containerization & CI/CD</span>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS"/><br>
+        <b>Cloud</b><br>
+        <span style="color:#888">AWS, GCP, Vercel, Render</span>
+      </td>
+      <td align="center" width="200">
+        ⚽♟️<br>
+        <b>Hobbies</b><br>
+        <span style="color:#888">Football & Chess</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+---
+
+</br>
+
+<!------------------------------------------------------------------------ Tech Stack ------------------------------------------------------------------------>
+
+## 💻 Tech Stack
+
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma&perline=10" alt="Frontend Stack" />
+</div>
+
+### Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,php&perline=10" alt="Backend Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</div>
+
+### Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&perline=10" alt="Database Stack" />
+</div>
+
+### Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,render,docker,nginx,githubactions&perline=10" alt="Cloud DevOps Stack" />
+</div>
+
+### Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,powershell,latex&perline=10" alt="Languages" />
+</div>
+
+### Tools & Others
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&perline=10" alt="Tools" />
+  <br>
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="Mosquitto" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" />
+</div>
+
+### Data Science & ML
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn&perline=10" alt="Data Science" />
+  <br>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+</div>
+
+
+---
+
+## 🗂️ Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **SkillSprint** | Competitive coding & hackathon portal with MCQ quizzes, coding contests, and real-time compiler | FastAPI, React, Docker, PostgreSQL, SQLAlchemy, JWT | [🌐 Live Demo](https://dreynox.github.io/SkillSprint/) \| [💻 Repository](https://github.com/dreynox/SkillSprint) |
+| **UAQI-Project** | Air Quality Index monitoring dashboard with real-time data visualization & interactive maps | HTML, CSS, JavaScript, Chart.js, Leaflet.js, OpenAQ API | [🌐 Live Demo](https://dreynox.github.io/UAQI-Project/) \| [💻 Repository](https://github.com/dreynox/UAQI-Project) |
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreynox&theme=radical" width="100%" style="display: block;" />
+</div>
+
+<!-- Stats Grid -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
+  <tr>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreynox&theme=radical" style="width: 100%; display: block;" />
+    </td>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dreynox&cache_seconds=7200&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFD700&icon_color=FFD700&ring_color=FFD700&show_icons=true" alt="dreynox's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </td>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreynox&theme=radical&hide_border=true&background=0D1117&ring=f8d847&fire=f8d847&currStreakLabel=f8d847" alt="dreynox's Streak Stats" style="width: 100%; height: auto; display: block;" />
+    </td>
+  </tr>
+</table>
+
+<!------------------------------------------------------------------------ Contribution Graph ------------------------------------------------------------------------>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tr>
+    <td align="center" style="padding: 0; margin: 0; line-height: 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreynox&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FF0033&line=0077B5&point=00C851&area_color=1a1a2e" width="100%" style="display: block; margin: 0; padding: 0;" />
+    </td>
+  </tr>
+</table>
+
+<!------------------------------------------------------------------------ Trophies ------------------------------------------------------------------------>
+<p align="center">
+  <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
+    <img src="https://github-profile-trophy.vercel.app/?username=dreynox&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
+         style="width: 1000px; margin-left: 0;" 
+         alt="Trophies" />
+  </div>
+</p>
+
+
+
+
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dreynox/dreynox/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dreynox/dreynox/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dreynox/dreynox/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+*Snake animation updates daily via GitHub Actions • Colors: Red (head) → Blue → Green (tail)*
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 900px; margin: 0 auto;">
+    <a href="https://www.linkedin.com/in/rayhaan-shaikh-a25b67378" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="200" height="50" alt="LinkedIn" style="display: block; border: none; border-radius: 8px;" />
+    </a>
+    <a href="mailto:dreynox.ray@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" width="200" height="50" alt="Email" style="display: block; border: none; border-radius: 8px;" />
+    </a>
+    <a href="https://github.com/dreynox" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="200" height="50" alt="GitHub" style="display: block; border: none; border-radius: 8px;" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rayhaan-shaikh-a25b67378/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="45" height="40" alt="linkedin logo"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/dreynox" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="45" height="40" alt="github logo"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dreynox.ray@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="45" height="40" alt="email logo"/>
+  </a>&nbsp;&nbsp;
+</div>
+
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
+</div>
+
+<!------------------------------------------------------------------------ Final Call to Action – Killer Button ------------------------------------------------------------------------>
+<div align="center">
+<a href="mailto:dreynox.ray@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-FF0033?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117&color=0077B5" height="60"/>
+</a>
+
+<!------------------------------------------------------------------------ Text ------------------------------------------------------------------------>
+<p style="font-size:24px; color:#00C851;">
+  <strong>Full Stack Development • Cloud Engineering • Open Source</strong>
+</p>
+
+<p style="color:#888888; font-size:15px;">
+  <em>Last Updated: July 2026 • Built with precision for engineering excellence</em>
+</p>
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,50:0077B5,100:00C851&height=2">
+</div>
