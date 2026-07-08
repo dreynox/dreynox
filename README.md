@@ -96,7 +96,7 @@
 <table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
   <tr>
     <td width="15%" align="center" style="padding: 15px;">
-      <img src="https://img.icons8.com/color/96/000000/university.png" width="80" alt="University Logo">
+      <img src="images\vu.png" width="80" alt="University Logo">
     </td>
     <td width="70%" style="padding: 15px;">
       <h3 style="margin: 0; color: #e6edf3;">Bachelor of Technology in Computer Science & Engineering</h3>
