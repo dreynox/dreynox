@@ -7,11 +7,11 @@
 
 <!-- Theme: Red to Blue to Green Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:0077B5,100:00C851&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20CS%26E%20Student%20%7C%20Building%20UAQI%20%26%20SkillSprint&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:0077B5,100:00C851&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20CS%20and%20E%20Student%20%7C%20Building%20UAQI%20and%20SkillSprint&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Web+Developer;CS%26E+Student+%7C+Building+from+Scratch;UAQI-Project+%7C+SkillSprint;Football+%26+Chess+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Web+Developer;CS+and+E+Student+%7C+Building+from+Scratch;UAQI-Project+%7C+SkillSprint;Football+and+Chess+Enthusiast" alt="Typing SVG" />
 </div>
 
 
@@ -102,7 +102,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,php&perline=10" alt="Backend Stack" />
   <br>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&v=1" alt="JWT" />
 </div>
 
 ### Databases
@@ -133,7 +133,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn&perline=10" alt="Data Science" />
   <br>
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white&v=1" alt="SciPy" />
 </div>
 
 
@@ -152,17 +152,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreynox&theme=radical" width="100%" style="display: block;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreynox&theme=radical&v=1" width="100%" style="display: block;" />
 </div>
 
 <!-- Stats Grid -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
     <td style="padding: 0; margin: 0; width: 33.33%;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreynox&theme=radical" style="width: 100%; display: block;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreynox&theme=radical&v=1" style="width: 100%; display: block;" />
     </td>
     <td style="padding: 0; margin: 0; width: 33.33%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dreynox&cache_seconds=7200&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFD700&icon_color=FFD700&ring_color=FFD700&show_icons=true" alt="dreynox's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    <img src="https://github-readme-stats.shion.dev/api?username=dreynox&cache_seconds=7200&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFD700&icon_color=FFD700&ring_color=FFD700&show_icons=true" alt="dreynox's GitHub Stats" style="width: 100%; height: auto; display: block;" />
     </td>
     <td style="padding: 0; margin: 0; width: 33.33%;">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreynox&theme=radical&hide_border=true&background=0D1117&ring=f8d847&fire=f8d847&currStreakLabel=f8d847" alt="dreynox's Streak Stats" style="width: 100%; height: auto; display: block;" />
@@ -183,7 +183,7 @@
 <!------------------------------------------------------------------------ Trophies ------------------------------------------------------------------------>
 <p align="center">
   <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
-    <img src="https://github-profile-trophy.vercel.app/?username=dreynox&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
+    <img src="https://github-profile-trophy.vercel.app/?username=dreynox&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1&v=1" 
          style="width: 1000px; margin-left: 0;" 
          alt="Trophies" />
   </div>
