@@ -7,7 +7,7 @@
 
 <!-- Theme: Red to Blue to Green Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:0077B5,100:00C851&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20CS%20and%20E%20Student%20%7C%20Building%20UAQI%20and%20SkillSprint&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C202E,100:610404&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20CS%20and%20E%20Student%20%7C%20Building%20UAQI%20and%20SkillSprint&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
 </div>
 
 <div align="center">
