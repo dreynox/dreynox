@@ -61,19 +61,18 @@
     <tr>
       <td align="center" width="200">
         <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/><br>
-        <b>
         <b>Open Source</b><br>
         <span style="color:#888">Contributing & Learning</span>
       </td>
       <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/><br>
-        <b>DevOps</b><br>
-        <span style="color:#888">Containerization & CI/CD</span>
+        <img src="https://skillicons.dev/icons?i=js" width="60" alt="Frontend"/><br>
+        <b>Frontend</b><br>
+        <span style="color:#888">Responsive Web UI</span>
       </td>
       <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS"/><br>
-        <b>Cloud</b><br>
-        <span style="color:#888">AWS, GCP, Vercel, Render</span>
+        <img src="https://skillicons.dev/icons?i=python" width="60" alt="Backend"/><br>
+        <b>Backend</b><br>
+        <span style="color:#888">APIs & Databases</span>
       </td>
       <td align="center" width="200">
         ⚽♟️<br>
@@ -115,11 +114,12 @@
 **Frontend Development:**
 <table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
   <tr align="center">
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br><b>HTML5</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br><b>CSS3</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br><b>JavaScript</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"><br><b>Tailwind</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"><br><b>Figma</b></td>
+    <td width="16%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br><b>HTML5</b></td>
+    <td width="16%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br><b>CSS3</b></td>
+    <td width="16%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br><b>JavaScript</b></td>
+    <td width="16%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"><br><b>Tailwind</b></td>
+    <td width="16%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"><br><b>Figma</b></td>
+    <td width="16%" style="padding: 10px;"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="50"><br><b>Canva</b></td>
   </tr>
 </table>
 
@@ -145,25 +145,51 @@
   </tr>
 </table>
 
+**Data Science & ML:**
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr align="center">
+    <td width="20%" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=numpy" width="50"><br><b>NumPy</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=pandas" width="50"><br><b>Pandas</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=matplotlib" width="50"><br><b>Matplotlib</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=sklearn" width="50"><br><b>scikit-learn</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.simpleicons.org/scipy/0C55A5" width="50"><br><b>SciPy</b></td>
+  </tr>
+</table>
+
 **Cloud & DevOps:**
 <table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
   <tr align="center">
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"><br><b>AWS</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"><br><b>GCP</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br><b>Docker</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"><br><b>Nginx</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"><br><b>GitHub Actions</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"><br><b>AWS</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"><br><b>GCP</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br><b>Docker</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"><br><b>Nginx</b></td>
+    <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><b>Actions</b></td>
+    <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=render" width="50"><br><b>Render</b></td>
+    <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><b>Vercel</b></td>
   </tr>
 </table>
 
 **Languages & Tools:**
 <table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
   <tr align="center">
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"><br><b>C</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br><b>C++</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br><b>Git</b></td>
-    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"><br><b>VS Code</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"><br><b>C</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br><b>C++</b></td>
+    <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><b>PowerShell</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" width="50"><br><b>Terminal</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br><b>Git</b></td>
+    <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=github" width="50"><br><b>GitHub</b></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"><br><b>VS Code</b></td>
+  </tr>
+</table>
+
+**Hardware & Formatting:**
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr align="center">
     <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"><br><b>Arduino</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.simpleicons.org/cisco/049fd9" width="50"><br><b>Cisco</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280" width="50"><br><b>Mosquitto</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.simpleicons.org/prettier/F7B93E" width="50"><br><b>Prettier</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=latex" width="50"><br><b>LaTeX</b></td>
   </tr>
 </table>
 
