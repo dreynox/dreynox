@@ -89,52 +89,83 @@
 
 </br>
 
+<!------------------------------------------------------------------------ Education ------------------------------------------------------------------------>
+
+## 🎓 Education
+
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr>
+    <td width="15%" align="center" style="padding: 15px;">
+      <img src="https://img.icons8.com/color/96/000000/university.png" width="80" alt="University Logo">
+    </td>
+    <td width="70%" style="padding: 15px;">
+      <h3 style="margin: 0; color: #e6edf3;">Bachelor of Technology in Computer Science & Engineering</h3>
+      <p style="margin: 5px 0; color: #2f81f7;"><strong>Vishwakarma University • Pune, India</strong></p>
+      <p style="margin: 0; color: #7d8590; font-size: 14px;">2025 – 2029 | Department of Computer Engineering</p>
+    </td>
+  </tr> 
+</table>
+
+<br>
+
 <!------------------------------------------------------------------------ Tech Stack ------------------------------------------------------------------------>
 
-## 💻 Tech Stack
+<h2 align="center">My Technical Stack</h2>
 
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma&perline=10" alt="Frontend Stack" />
-</div>
+**Frontend Development:**
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr align="center">
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br><b>HTML5</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br><b>CSS3</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br><b>JavaScript</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"><br><b>Tailwind</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"><br><b>Figma</b></td>
+  </tr>
+</table>
 
-### Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,php&perline=10" alt="Backend Stack" />
-  <br>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&v=1" alt="JWT" />
-</div>
+**Backend Development:**
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr align="center">
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br><b>Python</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"><br><b>FastAPI</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"><br><b>Flask</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"><br><b>PHP</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://img.icons8.com/color/96/000000/json-web-token.png" width="50"><br><b>JWT</b></td>
+  </tr>
+</table>
 
-### Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&perline=10" alt="Database Stack" />
-</div>
+**Databases:**
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr align="center">
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"><br><b>MySQL</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"><br><b>Postgres</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"><br><b>SQLite</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"><br><b>MongoDB</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"><br><b>Redis</b></td>
+  </tr>
+</table>
 
-### Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,render,docker,nginx,githubactions&perline=10" alt="Cloud DevOps Stack" />
-</div>
+**Cloud & DevOps:**
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr align="center">
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"><br><b>AWS</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"><br><b>GCP</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"><br><b>Docker</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"><br><b>Nginx</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"><br><b>GitHub Actions</b></td>
+  </tr>
+</table>
 
-### Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,powershell,latex&perline=10" alt="Languages" />
-</div>
-
-### Tools & Others
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&perline=10" alt="Tools" />
-  <br>
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="Mosquitto" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" />
-</div>
-
-### Data Science & ML
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn&perline=10" alt="Data Science" />
-  <br>
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white&v=1" alt="SciPy" />
-</div>
+**Languages & Tools:**
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
+  <tr align="center">
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"><br><b>C</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br><b>C++</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br><b>Git</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"><br><b>VS Code</b></td>
+    <td width="20%" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"><br><b>Arduino</b></td>
+  </tr>
+</table>
 
 
 ---
@@ -183,7 +214,7 @@
 <!------------------------------------------------------------------------ Trophies ------------------------------------------------------------------------>
 <p align="center">
   <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
-    <img src="https://github-profile-trophy.vercel.app/?username=dreynox&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1&v=1" 
+    <img src="https://github-trophies.vercel.app/?username=dreynox&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
          style="width: 1000px; margin-left: 0;" 
          alt="Trophies" />
   </div>
@@ -195,7 +226,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -211,15 +242,21 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 900px; margin: 0 auto;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 900px; margin: 0 auto;">
     <a href="https://www.linkedin.com/in/rayhaan-shaikh-a25b67378" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="200" height="50" alt="LinkedIn" style="display: block; border: none; border-radius: 8px;" />
+      <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" height="60" alt="LinkedIn" />
     </a>
-    <a href="mailto:dreynox.ray@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" width="200" height="50" alt="Email" style="display: block; border: none; border-radius: 8px;" />
+    <a href="https://discord.com/users/892765689302122516" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="60" height="60" alt="Discord" />
     </a>
-    <a href="https://github.com/dreynox" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="200" height="50" alt="GitHub" style="display: block; border: none; border-radius: 8px;" />
+    <a href="#" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="60" height="60" alt="YouTube" />
+    </a>
+    <a href="mailto:rayhaan.atwork@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="60" height="60" alt="Email" />
+    </a>
+    <a href="#" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" width="60" height="60" alt="WhatsApp" />
     </a>
   </div>
 </div>
@@ -233,17 +270,17 @@
 
 <!------------------------------------------------------------------------ Final Call to Action – Killer Button ------------------------------------------------------------------------>
 <div align="center">
-<a href="mailto:dreynox.ray@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-FF0033?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117&color=0077B5" height="60"/>
+<a href="mailto:rayhaan.atwork@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-FF0033?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D8000&color=B22222" height="40"/>
 </a>
 
 <!------------------------------------------------------------------------ Text ------------------------------------------------------------------------>
-<p style="font-size:24px; color:#00C851;">
-  <strong>Full Stack Development • Computer Science Engineering • Open Source</strong>
+<p style="font-size:20px; color:#ffffff; font-weight: bold; margin-top: 15px;">
+  Research • Technical Roles • AI + Engineering Projects
 </p>
 
-<p style="color:#888888; font-size:15px;">
-  <em>Last Updated: July 2026 • Built with precision for engineering excellence</em>
+<p style="color:#ffffff; font-size:15px; font-style: italic;">
+  Last Updated: july 2026 • Built with precision for engineering excellence
 </p>
 
 </div>
