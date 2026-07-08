@@ -7,11 +7,11 @@
 
 <!-- Theme: Red to Blue to Green Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C202E,100:610404&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20CS%20and%20E%20Student%20%7C%20Building%20UAQI%20and%20SkillSprint&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C202E,100:610404&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Budding%20SDE%20%7C%20CSE%20Student%20%7C%20Building%20Tech%20Skills&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Web+Developer;CS+and+E+Student+%7C+Building+from+Scratch;UAQI-Project+%7C+SkillSprint;Football+and+Chess+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=CSE+Student;Full+Stack+Web+Developer;Open+Source+Contributor;Football+&+Chess+Enthusiast" alt="Typing SVG" />
 </div>
 
 
