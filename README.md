@@ -92,18 +92,20 @@
 
 ## 🎓 Education
 
+<div align="center">
 <table border="1" bordercolor="#30363d" style="border-collapse: collapse; background-color: #0d1117;" width="100%">
   <tr>
     <td width="15%" align="center" style="padding: 15px;">
       <img src="images/VU.png" width="80" alt="University Logo">
     </td>
-    <td width="70%" style="padding: 15px;">
+    <td width="85%" align="center" style="padding: 15px;">
       <h3 style="margin: 0; color: #e6edf3;">Bachelor of Technology in Computer Science & Engineering</h3>
       <p style="margin: 5px 0; color: #2f81f7;"><strong>Vishwakarma University • Pune, India</strong></p>
       <p style="margin: 0; color: #7d8590; font-size: 14px;">2025 – 2029 | Department of Computer Engineering</p>
     </td>
   </tr> 
 </table>
+</div>
 
 <br>
 
@@ -266,14 +268,11 @@
     <a href="https://discord.com/users/892765689302122516" style="text-decoration: none; display: inline-block; line-height: 0;">
       <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="60" height="60" alt="Discord" />
     </a>
-    <a href="#" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="60" height="60" alt="YouTube" />
+    <a href="https://x.com/dreynoxdev" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.icons8.com/color/96/000000/twitterx--v1.png" width="60" height="60" alt="X" />
     </a>
     <a href="mailto:rayhaan.atwork@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
       <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="60" height="60" alt="Email" />
-    </a>
-    <a href="#" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" width="60" height="60" alt="WhatsApp" />
     </a>
   </div>
 </div>
