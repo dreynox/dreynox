@@ -7,11 +7,11 @@
 
 <!-- Theme: Red to Blue to Green Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C202E,100:610404&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Budding%20SDE%20%7C%20CSE%20Student%20%7C%20Building%20Tech%20Skills&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C202E,100:610404&height=220&section=header&text=Rayhaan%20Shaikh&fontSize=64&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20SDE%20%7C%20CSE%20Student%20%7C%20Building%20Tech%20Skills&descAlign=50&descAlignY=85&descSize=24&descColor=f0f0f0&shadow=true" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=CSE+Student;Full+Stack+Web+Developer;Open+Source+Contributor;Football+&+Chess+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&width=800&height=50&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Open+Source+Contributor;Football+and+Chess+Enthusiast" alt="Typing SVG" />
 </div>
 
 
@@ -205,7 +205,6 @@
   </picture>
 </div>
 
-*Snake animation updates daily via GitHub Actions • Colors: Red (head) → Blue → Green (tail)*
 
 ---
 
@@ -227,19 +226,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rayhaan-shaikh-a25b67378/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="45" height="40" alt="linkedin logo"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/dreynox" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="45" height="40" alt="github logo"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dreynox.ray@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="45" height="40" alt="email logo"/>
-  </a>&nbsp;&nbsp;
-</div>
-
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
@@ -253,7 +239,7 @@
 
 <!------------------------------------------------------------------------ Text ------------------------------------------------------------------------>
 <p style="font-size:24px; color:#00C851;">
-  <strong>Full Stack Development • Cloud Engineering • Open Source</strong>
+  <strong>Full Stack Development • Computer Science Engineering • Open Source</strong>
 </p>
 
 <p style="color:#888888; font-size:15px;">
