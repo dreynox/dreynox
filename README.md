@@ -290,14 +290,6 @@
   <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-FF0033?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D8000&color=B22222" height="40"/>
 </a>
 
-<!------------------------------------------------------------------------ Text ------------------------------------------------------------------------>
-<p style="font-size:20px; color:#ffffff; font-weight: bold; margin-top: 15px;">
-  Research • Technical Roles • AI + Engineering Projects
-</p>
-
-<p style="color:#ffffff; font-size:15px; font-style: italic;">
-  Last Updated: july 2026 • Built with precision for engineering excellence
-</p>
 
 </div>
 
